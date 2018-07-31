@@ -33,10 +33,23 @@ In order to determine in which group is the every single test element belongs, w
 
 ## Results
 
-The results for histogram based features, we tried both gry scale , RGB and HSV color space with different number of bins from 10 to 200. As a result we took the best accuract with HVS color space under 20 number of bins. Although the accuracy is about 30% , we could not say it could not work. Since there are 15 different class and as baseline method random selection methods has just 100/15=6.66% accuracy. So we would say, according to histogram features results, there are significant differences between random selection and this method. The following figure is histogram features confusion matrix and ROC curves.
+The results for histogram based features, we tried both gry scale , RGB and HSV color space with different number of bins from 10 to 200. As a result we took the best accuract with HVS color space under 20 number of bins. Although the accuracy is about 30% , we could not say it could not work. Since there are 15 different class and as baseline method random selection methods has just 100/15=6.66% accuracy. So we would say, according to histogram features results, there are significant differences between random selection and this method. To run histogram based method, following script should be run.
+
+```
+> histogram_test
+```
+The following figure is histogram features confusion matrix and ROC curves.
 
 ![Sample image](Outputs/histcmat.bmp?raw=true "Title")
 
+The second results were taken from bag of sift features under 200 number of vocabulary size. Since this methods computational cost is quite big, but also the accuracy is above the 65%. To run sift based method, following script should be run.
+
+```
+> sift_test
+```
+The following figure is the confusion matrix and ROC curve for bag of sift method.
+
+![Sample image](Outputs/siftcmat.bmp?raw=true "Title")
 
 
 ## Reference ##
