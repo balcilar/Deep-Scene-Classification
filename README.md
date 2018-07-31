@@ -1,5 +1,5 @@
 
-# Deep Sceen Classification
+# Deep Scene Classification
 
 Scene classification with using some certain different images of scenes are very important and crucial issue in computer vision literature. Especially, to automatize it with computer has significant amount of benefit in terms of robotic and automation. Although computers are still far from the human beings ability in order to visual understanding, the researchers have done too many significant contribution on this area. As general classification problem, image scene classification problem has the same two fundamental step in it. These are feature extraction and classification respectively. 
 
