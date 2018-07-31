@@ -52,5 +52,15 @@ The following figure is the confusion matrix and ROC curve for bag of sift metho
 ![Sample image](Outputs/siftcmat.bmp?raw=true "Title")
 
 
+Last but now least we presented the best methods accuracy with was taken by vgg16’s pretrained networks. The accuracy is more than 90% and it is pretty suitable for many automatization tasks. To run vgg16 network based method, following script should be run.
+
+```
+> vgg16_test
+```
+The following figure is the confusion matrix and ROC curve for vgg16 based method
+
+![Sample image](Outputs/vgg16cmat.bmp?raw=true "Title")
+
+
 ## Reference ##
 [1]	Shi, Qinfeng, et al. "Is face recognition really a compressive sensing problem?." Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on. IEEE, 2011. 
