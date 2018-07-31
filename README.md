@@ -63,4 +63,13 @@ The following figure is the confusion matrix and ROC curve for vgg16 based metho
 
 
 ## Reference ##
-[1]	Shi, Qinfeng, et al. "Is face recognition really a compressive sensing problem?." Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on. IEEE, 2011. 
+[1] L. Fei-Fei and P. Perona. A Bayesian hierarchical model for learning natural scene categories. In Proc. CVPR, 2005.
+
+[2] A. Oliva and A. Torralba. Modeling the shape of the scene: a holistic representation of the spatial envelope. IJCV, 42(3):145–175, 2001.
+
+[3] S. Lazebnik, C. Schmid, and J. Ponce, “Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories,” in Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2, ser. CVPR ’06. Washington, DC, USA: IEEE Computer Society, 2006, pp. 2169–2178. [Online]. Available: http://dx.doi.org/10.1109/CVPR.2006.68
+
+[4] M. Swain and D. Ballard. Color indexing. IJCV, 7(1):11–32, 1991
+
+[5] Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
+
