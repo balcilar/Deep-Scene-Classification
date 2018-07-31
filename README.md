@@ -11,7 +11,9 @@ In this research, we have focused on three different image features which are hi
 
 ## Dataset
 
-Our dataset  is composed of fifteen scene categories: thirteen were provided by Fei-Fei and Perona [1] (eight of these were originally collected by Oliva and Torralba [2]), and two (industrial and store) were collected by [3]. As a result in that dataset, there are 15 different class and every single class has 100 images for train and 100 images for test. All images are RBG color images but has different resolutions. 
+Our dataset  is composed of fifteen scene categories: thirteen were provided by Fei-Fei and Perona [1] (eight of these were originally collected by Oliva and Torralba [2]), and two (industrial and store) were collected by [3]. As a result in that dataset, there are 15 different class and every single class has 100 images for train and 100 images for test. All images are RBG color images but has different resolutions. Here is one example of every single group.
+
+![Sample image](Outputs/sampleinputs.bmp?raw=true "Title")
 
 ## Histogram Based Features
 
