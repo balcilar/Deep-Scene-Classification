@@ -82,7 +82,7 @@ for i=1:length(testImages.Files)
     test_labels(i,1)=testImages.Labels(i);
 end
 
-svm = fitcecoc(train_image_feats,train_labels);
+%svm = fitcecoc(train_image_feats,train_labels);
 
 %[predictedLabels scores]=predict(svm,test_image_feats);
 [predictedLabels scores] = svm_classify(train_image_feats, train_labels, test_image_feats,0.000001);
