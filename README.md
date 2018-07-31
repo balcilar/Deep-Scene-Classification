@@ -59,7 +59,7 @@ Last but now least we presented the best methods accuracy with was taken by vgg1
 ```
 The following figure is the confusion matrix and ROC curve for vgg16 based method
 
-![Sample image](Outputs/vgg16cmat.bmp?raw=true "Title")
+![Sample image](Outputs/vggcmat.bmp?raw=true "Title")
 
 
 ## Reference ##
