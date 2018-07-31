@@ -63,9 +63,9 @@ The following figure is the confusion matrix and ROC curve for vgg16 based metho
 
 ## Conclusion
 
-Farewell Feature EXtraction, Welcome Convolutional Neural Networks
+Farewell Feature Extraction, Welcome Convolutional Neural Networks
 
-## Reference ##
+## Reference 
 [1] L. Fei-Fei and P. Perona. A Bayesian hierarchical model for learning natural scene categories. In Proc. CVPR, 2005.
 
 [2] A. Oliva and A. Torralba. Modeling the shape of the scene: a holistic representation of the spatial envelope. IJCV, 42(3):145–175, 2001.
