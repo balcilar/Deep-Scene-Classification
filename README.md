@@ -63,7 +63,7 @@ The following figure is the confusion matrix and ROC curve for vgg16 based metho
 
 ## Conclusion
 
-Farewell Feature Extraction, Welcome Convolutional Neural Networks
+Farewell feature extraction age, welcome Convolutional Neural Networks revolution
 
 ## Reference 
 [1] L. Fei-Fei and P. Perona. A Bayesian hierarchical model for learning natural scene categories. In Proc. CVPR, 2005.
